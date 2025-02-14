@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akahug007
 - 👀 I’m interested in Electrical/Eletronics Engineering and Computer Science
 - 🌱 I’m currently learning a couple programming languages
-      - Coding emphasis on the Java programming language
+- Coding emphasis on the Java programming language
 
 <!---
 Akahug007/Akahug007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
