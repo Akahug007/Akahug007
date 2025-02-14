@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akahug007
-- 👀 I’m interested in Electrical Engineering and Computer Science
+- 👀 I’m interested in Electrical/Eletronics Engineering and Computer Science
 - 🌱 I’m currently learning a couple programming languages
 
 <!---
