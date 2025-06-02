@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Akahug007
 - 👀 I’m interested in Electrical Engineering and Computer Science on Intelligent Systems and Electronics
+  - Talk to me about anything programming, electronics, physics, or electricity related
 - 🌱 I’m currently learning a couple programming languages such as Java and Javascript
   - With C++ and Assembly on a broader scale
 - 💻 Programming proficiency in Java and Javascript programming languages
