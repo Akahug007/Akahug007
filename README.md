@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Akahug007
+- 🏫 Currently stuck in school 
 - 👀 I’m interested in Electrical Engineering and Computer Science on Intelligent Systems and Electronics
-  - Talk to me about anything programming, electronics, physics, or electricity related
+  - Talk to me about anything programming, electronics, physics, electricity, or any STEM (Science, Technology, Engineering, Mathematic) related topics
 - 🌱 I’m currently learning a couple programming languages such as Java and Javascript
   - With C++ and Assembly on a broader scale
 - 💻 Programming proficiency in Java and Javascript programming languages
