@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning a couple programming languages such as Java and Javascript
   - With C++ and Assembly on a broader scale
 - 💻 Programming proficiency in Java and Javascript programming languages
+- Pfp is Sokka from Avatar the Last Airbender btw
 
 <!---
 Akahug007/Akahug007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
