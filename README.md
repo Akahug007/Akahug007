@@ -9,6 +9,7 @@
     - Highschool:
       - AP Computer Science Principles
       - AP Computer Science A
+      - AP Precalculus
 - 👀 I’m interested in Electrical Engineering and Computer Science on Intelligent Systems and Electronics
   - Talk to me about anything programming, electronics, physics, electricity, or any STEM (Science, Technology, Engineering, Mathematic) related topics
 - 🌱 I’m currently learning a couple programming languages such as Java and Javascript
