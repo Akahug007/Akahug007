@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @Akahug007
-- 🏫 Currently stuck in school 
+- 🏫 Currently stuck in school
+  - Courses completed:
+    - Computer Architecture and Organization: Assembly
+    - Java Programming: Objects
+    - Programming Concepts and Methodology I: C++
+    - AP Computer Science Principles
+    - AP Computer Science A
 - 👀 I’m interested in Electrical Engineering and Computer Science on Intelligent Systems and Electronics
   - Talk to me about anything programming, electronics, physics, electricity, or any STEM (Science, Technology, Engineering, Mathematic) related topics
 - 🌱 I’m currently learning a couple programming languages such as Java and Javascript
