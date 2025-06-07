@@ -17,7 +17,6 @@
     - Highschool:
       - AP Computer Science Principles
       - AP Computer Science A
-      - AP Precalculus
 
 - Pfp is Sokka from Avatar the Last Airbender btw
 <!---
